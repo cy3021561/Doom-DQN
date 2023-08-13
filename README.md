@@ -5,7 +5,8 @@ Click on images for further demo videos.
 
 ## Overview
 
-This project focuses on training an AI agent to play Doom games using Deep Convolutional Q-Learning (DQN) with Eligibility Trace (N-Step Q-Learning). DQN is a powerful deep reinforcement learning algorithm that combines the benefits of Q-Learning with deep neural networks to achieve impressive results in game environments. By incorporating Eligibility Trace, the AI agent can efficiently update Q-values, leading to enhanced performance in playing Doom games.
+A course project developed for the Udemy course "Artificial Intelligence A-Z™ 2023: Build an AI with ChatGPT4
+." This project focuses on training an AI agent to play Doom games using Deep Convolutional Q-Learning (DQN) with Eligibility Trace (N-Step Q-Learning). DQN is a powerful deep reinforcement learning algorithm that combines the benefits of Q-Learning with deep neural networks to achieve impressive results in game environments. By incorporating Eligibility Trace, the AI agent can efficiently update Q-values, leading to enhanced performance in playing Doom games.
 
 ## Project Plan
 
